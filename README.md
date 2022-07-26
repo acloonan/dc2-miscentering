@@ -6,6 +6,7 @@ Results presented at AAS 240, in Section 139.
 ### Software
 
 * numpy
+* scipy
 * astropy
-* matplotlib
+* matplotlib, seaborn
 * emcee
